@@ -1,0 +1,13 @@
+v,es,dir
+a
+b,a:2
+c,a:2
+d,b:1,c:8,e:2
+e,h:8,r:2
+f,c:3,g:2
+g
+h,p:4,q:4
+p,q:15
+q
+r,f:1
+s,d:3,e:9,p:1
